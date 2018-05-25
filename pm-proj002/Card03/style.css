@@ -1,0 +1,80 @@
+/*================================================
+                              Reset
+    ================================================*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*================================================
+                       Body
+================================================*/
+
+body {
+    background-color: #cfcfcf;
+}
+
+.post {
+    width: 608px;
+    height: 633px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding-top: 12px;
+}
+
+.container {
+    width: 100%;
+    max-width: 584px;
+    height: 611px;
+    margin: 0 auto;
+
+}
+
+.img_principal {
+    width: 100%;
+    max-width: 584px;
+    height: 350px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.noticias {
+    width: 100%;
+    max-width: 584px;
+    height: 217px;
+    margin: 0 auto;
+    margin-top: 18px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.not_01{
+    width: 194.66px;
+    height: 100%;
+    background-color: aqua;
+}
+
+.not_01 .topo img{
+    width: 210px;
+    height: 95px;
+    padding: 0;
+   margin: 0 auto;
+}
+
+.not_02{
+    width: 194.66px;
+    height: 100%;
+    background-color: red;
+
+}
+
+.not_03{
+    width: 194.66px;
+    height: 100%;
+    background-color: blue;
+}
+
+
+
+

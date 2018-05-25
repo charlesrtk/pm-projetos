@@ -1,0 +1,87 @@
+/*================================================
+                              Reset
+    ================================================*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*================================================
+                       Body
+================================================*/
+
+body {
+    background-color: #ccc;
+    font-family: 'Opens sans', sans-serif;
+}
+
+.report {
+    width: 693px;
+    height: 213px;
+    margin: 150px auto;
+    background-color: #e8e8e8;
+    padding-top: 10px;
+}
+
+.area {
+    width: 100%;
+    max-width: 673px;
+    height: 193px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 15px;
+
+}
+
+.titulo {
+    width: 100%;
+    max-width: 650px;
+    height: 50px;
+    margin: 0 auto;
+
+}
+
+
+h3 {
+    text-transform: uppercase;
+    font-size: 0.8em;
+    line-height: 50px;
+    padding-top: 5px;
+}
+
+.conteudo {
+    width: 100%;
+    max-width: 650px;
+    height: 125px;
+    margin: 0 auto;
+
+}
+
+.left {
+    width: 650px;
+    max-width: 250px;
+    height:100%;
+    float: left;
+}
+
+figure img{
+    border-radius: 12px 0 0 12px;
+}
+.right{
+    width: 650px;
+    max-width: 376px;
+    height:105px;
+    float: right;
+    padding: 12px;
+}
+
+.chamada{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.descricao {
+    margin-top: 7px;
+    font-size: 0.9em
+}
+

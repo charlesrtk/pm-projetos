@@ -1,0 +1,94 @@
+/*================================================
+                              Reset
+    ================================================*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*================================================
+                       Body
+================================================*/
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 320px;
+    margin: 50px auto;
+    height: 568px;
+    background-color: #ccc;
+    border-bottom:
+}
+.post {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    height: 600px;
+    border-radius: 2px 0 2px 0 #999;
+}
+
+img {
+    margin: 11px 0 -5px 0;
+}
+
+.conteudo {
+    width: 100%;
+    max-width: 300px;
+    height: 153px;
+    background-color: #fff;
+
+}
+
+
+.titulo {
+    width: 100%;
+    height: 16px;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.local {
+    font-weight: 600;
+    font-size: 14px;
+    color: #333;
+    float: left;
+    margin-left: 9px;
+}
+
+.time {
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: 300;
+    color: #999;
+    margin-left: 70px;
+}
+
+.chamada {
+    width: 300px;
+    max-width: 283px;
+    margin: 7px 8px 0 9px;
+
+
+
+}
+.chamada a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    color: #b5000d;
+    height: 54px;
+}
+
+.detalhes {
+    width: 300px;
+    max-width: 283px;
+    margin: 7px 8px 0 9px;
+    height: 32px;
+    font-size: 14px;
+    font-weight: 300px;
+    line-height: 16px;
+    color: #333;
+}

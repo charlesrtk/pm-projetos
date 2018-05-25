@@ -1,0 +1,71 @@
+/*================================================
+                Configurações gerais
+================================================*/
+
+body {
+    background-color: #909090;
+}
+
+.container {
+    height: 713px;
+    width: 100%;
+    max-width: 1008px;
+    margin: 150px auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+    border-radius: 3px;
+    background-color: #ffffff;
+
+}
+
+
+.container h2 {
+    padding: 21px 0 0 23px;
+    opacity: 0.87;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+table,
+th,
+td {
+    width: 1001px;
+    border-bottom: 1px solid #979797;
+    border-collapse: collapse;
+    opacity: 0.57;
+
+}
+
+th {
+    opacity: 0.9;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    padding-top: 39px;
+}
+
+th input[type="checkbox"] {
+    margin: 0;
+    padding: 0px;
+    width: 18px;
+    height: 18px;
+    margin-left: 12px
+}
+
+
+
+
+}
+
+/* Style for "Coluna 2" */
+
+width: 52px;
+height: 15px;
+opacity: 0.9;
+color: #000000;
+font-family: Roboto;
+font-size: 13px;
+font-weight: 500;

@@ -1,0 +1,33 @@
+/*================================================
+                              Reset
+    ================================================*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*================================================
+                       Body
+================================================*/
+
+
+.box {
+    width: 100%;
+    max-width: 1116px;
+    height: 900px;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+.home_topo {
+    width: 100%vw;
+    height: 90px;
+    background-color: #ccc;
+}
+
+.logo img {
+    width: 90px;
+    height: 53px;
+    background-color: blue;
+}

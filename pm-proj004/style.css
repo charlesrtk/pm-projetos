@@ -1,0 +1,86 @@
+/*================================================
+                              Reset
+    ================================================*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*================================================
+                Configurações gerais
+================================================*/
+
+body {
+    background-color: #000000;
+}
+
+/*Cores*/
+
+.green {
+    background-color: ;
+}
+
+.visited {
+    background-color: rgba(39, 174, 95, 0.8);
+}
+
+.grey {
+    background-color: #4a4a4a;
+}
+
+.grey_hover {
+    background-color: rgba(74, 73, 74, 0.8);
+}
+
+/*================================================
+                       Body
+================================================*/
+
+
+.container {
+    width: 100%;
+    margin: 150px auto;
+    max-width: 375px;
+}
+
+
+.projetos {
+    display: flex;
+    padding: 55px 28px;
+    border-top: 3px solid #fff;
+    background-color: #4a4a4a;
+}
+
+.projetos:hover{
+    background-color: rgba(74, 73, 74, 0.8);
+}
+
+.projetos_ativo {
+    display: flex;
+    padding: 55px 28px;
+    border-top: 3px solid #fff;
+    background-color: #27ae60;
+}
+
+.projetos_ativo:visited {
+    background-color: rgba(74, 73, 74, 0.8);
+}
+
+
+a li {
+    width: 375px;
+    height: 150px;
+    list-style: none;
+
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Oswald', sans serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0px 117px 0 23px;
+}

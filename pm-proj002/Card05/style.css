@@ -1,0 +1,158 @@
+/*================================================
+                              Reset
+    ================================================*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*================================================
+                       Body
+================================================*/
+
+body {
+    background-color: #000;
+    font-family: 'Arial''
+}
+
+.post {
+    width: 609px;
+    height: 478px;
+    margin: 150px auto;
+    background-color: #fff;
+    border-radius: 4px;
+
+}
+
+.chamada {
+    width: 100%;
+    max-width: 569px;
+    height: 200px;
+    margin: 0 auto;
+
+}
+
+.topo {
+    width: 100%;
+    max-width: 569px;
+    height: 50px;
+    margin: 0 auto;
+    line-height: 50px;
+    display: flex;
+}
+
+.topo h3{
+    font-size: 1.1em;
+    color: #005588;
+}
+.topo a i {
+    color: #9A9A9A;
+    font-size: 0.8em;
+    margin-left: 12px
+}
+
+.titulo {
+    width: 100%;
+    max-width: 569px;
+    height: 90px;
+
+}
+.titulo h1 {
+    font-size: 2.0em
+}
+
+.subtitulo p {
+    width: 100%;
+    max-width: 569px;
+    height: 60px;
+    margin: 0 auto;
+    color: darkgray;
+    font-size: 1.1em
+}
+
+.noticias_diversas {
+    width: 100%;
+    max-width: 569px;
+    height: 278px;
+    margin: 0 auto;
+
+}
+
+.left {
+    width: 100%;
+    max-width: 284.5px;
+    height: 278px;
+
+    float: left;
+
+}
+
+.right {
+    width: 100%;
+    max-width: 284.5px;
+    height: 278px;
+
+    float: right;
+}
+
+.left-not01 {
+    width: 100%;
+    max-width: 284.5px;
+    height: 139px;
+    font-size: 1em;
+}
+
+
+.left-not01 p {
+    font-size: 1.4em;
+    max-width: 250px;
+        font-weight: bold;
+
+}
+
+.br18 {
+    width: 100%;
+    max-width: 284.5px;
+    height: 35px;
+    background-color: #fff;
+
+
+}
+
+.right_img {
+    width: 100%;
+    max-width: 270px;
+    height: 150px;
+    margin: auto;
+
+
+}
+
+.topox {
+    width: 100%;
+    max-width: 569px;
+    height: 30px;
+    margin: 0 auto;
+    line-height: 30px;
+    display: flex;
+    margin-bottom: 4px
+}
+
+.topox h3{
+    font-size: 0.9em;
+    color: #005588;
+    margin-left: 6px;
+    font-weight: bold;
+}
+.topox a i {
+    color: #9A9A9A;
+    margin-left: 12px;
+}
+
+.index {
+   color: #000;
+    margin-top: 10px;
+    font-size: 22px
+
+}
